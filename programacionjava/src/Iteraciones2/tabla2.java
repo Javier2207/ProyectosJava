@@ -18,16 +18,9 @@ public class tabla2 {
 			System.out.println(i);
 		
 		
-		if()
-			
-			
-	}
+			}
 			
 		
-		
-		
-		
-
 	}
 
 }
