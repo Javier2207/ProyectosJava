@@ -13,5 +13,5 @@ public class Copiartabla {
 		System.out.println(Arrays.toString(tabla2));
 
 	}
-
+	
 }
